@@ -16,8 +16,8 @@ public class AndroidTest {
 
 	public static void main(String[] args) throws MalformedURLException {
 		
-		String USERNAME = "ameypaithankar_k1M239";
-		String KEY = "yBiDvsHQHsyFFFc4pjpM";
+		String USERNAME = "ENTER YOUR BROWSER STACK USERNAME";
+		String KEY = "ENTER YOUR OWN ACCESS KEY";
 		
 		DesiredCapabilities cap = new DesiredCapabilities();
 		cap.setCapability("os_version", "9.0");
